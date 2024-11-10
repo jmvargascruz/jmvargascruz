@@ -16,8 +16,7 @@
 
 ---
 
-## 🌐 Explore More
-You can find more of my projects and work on my website:
+## 🌐 Proyects
 - [**jmvargascruz.github.io**](https://jmvargascruz.github.io)
 
 
