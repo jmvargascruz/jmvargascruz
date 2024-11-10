@@ -2,7 +2,7 @@
 
 
 ## 🛠 Interests
-- **🤖 Robotics & Autonomous Systems**
+- **🤖 Robotics**
 - **📍 Simultaneous Localization and Mapping (SLAM)**
 - **⚙️ Mechatronics Engineering**
 - **🔍 Deep Learning & Computer Vision**
