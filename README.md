@@ -10,7 +10,7 @@
 ---
 
 ## 🔭 Professional Journey
-- **Robotics Intern** - Mapping with EKF-SLAM at **RIWO** (2024)
+- **Robotics Intern** - Mapping task using EKF-SLAM at **RIWO** (2024)
 - **M.Sc in Robotics** - University of Twente, NL (2023-2025)
 - **B.Eng in Mechatronics Engineering** - Monterrey Institute of Technology and Higher Education (2018-2022)
 
