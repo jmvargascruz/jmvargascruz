@@ -5,6 +5,7 @@
 - **🤖 Robotics**
 - **📍 Simultaneous Localization and Mapping (SLAM)**
 - **⚙️ Mechatronics Engineering**
+- **🏗️ Prototyping**
 - **🔍 Deep Learning & Computer Vision**
 
 ---
