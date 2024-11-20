@@ -6,6 +6,7 @@
 - **📍 Simultaneous Localization and Mapping (SLAM)**
 - **⚙️ Mechatronics Engineering**
 - **🏗️ Prototyping**
+- **📏 CAD Design**
 - **🔍 Deep Learning & Computer Vision**
 
 ---
